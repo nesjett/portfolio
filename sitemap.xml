@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/portfolio/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>/portfolio/post-sitemap.xml</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>/portfolio/page-sitemap.xml</loc>
 		<lastmod>2022-06-24T16:48:44+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/attachment-sitemap.xml</loc>
+		<loc>/portfolio/attachment-sitemap.xml</loc>
 		<lastmod>2024-08-17T20:46:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/download-sitemap.xml</loc>
+		<loc>/portfolio/download-sitemap.xml</loc>
 		<lastmod>2020-05-22T14:37:31+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>/portfolio/category-sitemap.xml</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post_tag-sitemap.xml</loc>
+		<loc>/portfolio/post_tag-sitemap.xml</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/download_tag-sitemap.xml</loc>
+		<loc>/portfolio/download_tag-sitemap.xml</loc>
 		<lastmod>2020-05-22T14:37:31+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

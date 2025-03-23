@@ -1,135 +1,135 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/portfolio/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/unreal-engine/4-12</loc>
+		<loc>/portfolio/category/unreal-engine/4-12</loc>
 		<lastmod>2022-06-25T07:40:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-13</loc>
+		<loc>/portfolio/category/unreal-engine/4-13</loc>
 		<lastmod>2022-06-25T07:41:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-20-unreal-engine</loc>
+		<loc>/portfolio/category/unreal-engine/4-20-unreal-engine</loc>
 		<lastmod>2022-06-25T07:33:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-20</loc>
+		<loc>/portfolio/category/unreal-engine/4-20</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-21</loc>
+		<loc>/portfolio/category/unreal-engine/4-21</loc>
 		<lastmod>2022-06-25T07:35:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-22</loc>
+		<loc>/portfolio/category/unreal-engine/4-22</loc>
 		<lastmod>2022-06-25T07:35:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-23</loc>
+		<loc>/portfolio/category/unreal-engine/4-23</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-24</loc>
+		<loc>/portfolio/category/unreal-engine/4-24</loc>
 		<lastmod>2022-06-25T07:35:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-27</loc>
+		<loc>/portfolio/category/unreal-engine/4-27</loc>
 		<lastmod>2022-06-25T07:35:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-6</loc>
+		<loc>/portfolio/category/unreal-engine/4-6</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-7</loc>
+		<loc>/portfolio/category/unreal-engine/4-7</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-8</loc>
+		<loc>/portfolio/category/unreal-engine/4-8</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/4-9</loc>
+		<loc>/portfolio/category/unreal-engine/4-9</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine/5-0</loc>
+		<loc>/portfolio/category/unreal-engine/5-0</loc>
 		<lastmod>2022-06-25T07:35:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/angular</loc>
+		<loc>/portfolio/category/angular</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/blogpost/awards</loc>
+		<loc>/portfolio/category/blogpost/awards</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/blogpost</loc>
+		<loc>/portfolio/category/blogpost</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/c-3</loc>
+		<loc>/portfolio/category/c-3</loc>
 		<lastmod>2020-08-06T16:01:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/c</loc>
+		<loc>/portfolio/category/c</loc>
 		<lastmod>2022-03-23T15:16:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/blogpost/erasmus-youth</loc>
+		<loc>/portfolio/category/blogpost/erasmus-youth</loc>
 		<lastmod>2020-03-19T23:21:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/blogpost/esn</loc>
+		<loc>/portfolio/category/blogpost/esn</loc>
 		<lastmod>2022-06-25T07:30:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/blogpost/events</loc>
+		<loc>/portfolio/category/blogpost/events</loc>
 		<lastmod>2022-06-12T09:17:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/featured</loc>
+		<loc>/portfolio/category/featured</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/javascript</loc>
+		<loc>/portfolio/category/javascript</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/learning</loc>
+		<loc>/portfolio/category/learning</loc>
 		<lastmod>2024-02-11T18:45:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/maxscript</loc>
+		<loc>/portfolio/category/maxscript</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/meetup</loc>
+		<loc>/portfolio/category/meetup</loc>
 		<lastmod>2022-06-25T07:38:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/projects</loc>
+		<loc>/portfolio/category/projects</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/resources</loc>
+		<loc>/portfolio/category/resources</loc>
 		<lastmod>2024-02-11T18:45:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/blogpost/traveling</loc>
+		<loc>/portfolio/category/blogpost/traveling</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/typescript</loc>
+		<loc>/portfolio/category/typescript</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unreal-engine</loc>
+		<loc>/portfolio/category/unreal-engine</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/blogpost/erasmus-youth/yolo</loc>
+		<loc>/portfolio/category/blogpost/erasmus-youth/yolo</loc>
 		<lastmod>2019-05-14T10:08:35+00:00</lastmod>
 	</url>
 </urlset>
