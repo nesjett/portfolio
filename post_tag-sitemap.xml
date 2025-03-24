@@ -1,703 +1,703 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/portfolio/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/portfolio/tag/sh</loc>
+		<loc>/tag/sh</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/3d-modelling</loc>
+		<loc>/tag/3d-modelling</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/3d-studio-max</loc>
+		<loc>/tag/3d-studio-max</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/3ds-max</loc>
+		<loc>/tag/3ds-max</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/3dsmax-wall-generator</loc>
+		<loc>/tag/3dsmax-wall-generator</loc>
 		<lastmod>2018-09-19T05:59:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/agile-development</loc>
+		<loc>/tag/agile-development</loc>
 		<lastmod>2022-06-25T07:18:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/amiens</loc>
+		<loc>/tag/amiens</loc>
 		<lastmod>2019-05-10T17:45:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/android</loc>
+		<loc>/tag/android</loc>
 		<lastmod>2022-06-25T07:31:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/angular</loc>
+		<loc>/tag/angular</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/angular-cli</loc>
+		<loc>/tag/angular-cli</loc>
 		<lastmod>2024-02-11T18:45:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/augmented-reality</loc>
+		<loc>/tag/augmented-reality</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/automation</loc>
+		<loc>/tag/automation</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/aws</loc>
+		<loc>/tag/aws</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/aws-cli</loc>
+		<loc>/tag/aws-cli</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/brussels</loc>
+		<loc>/tag/brussels</loc>
 		<lastmod>2022-06-25T07:30:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/c</loc>
+		<loc>/tag/c</loc>
 		<lastmod>2020-08-06T16:01:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/c-2</loc>
+		<loc>/tag/c-2</loc>
 		<lastmod>2022-03-23T15:16:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/chairing-team</loc>
+		<loc>/tag/chairing-team</loc>
 		<lastmod>2020-06-22T10:20:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/cityu</loc>
+		<loc>/tag/cityu</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/combat-system</loc>
+		<loc>/tag/combat-system</loc>
 		<lastmod>2022-06-25T07:44:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/dark-souls</loc>
+		<loc>/tag/dark-souls</loc>
 		<lastmod>2022-06-25T07:44:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/dark-souls-fighting-system</loc>
+		<loc>/tag/dark-souls-fighting-system</loc>
 		<lastmod>2022-06-25T07:33:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/development</loc>
+		<loc>/tag/development</loc>
 		<lastmod>2022-06-25T07:31:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/docker</loc>
+		<loc>/tag/docker</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/docker-compose</loc>
+		<loc>/tag/docker-compose</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/docker-swarm</loc>
+		<loc>/tag/docker-swarm</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/downloads</loc>
+		<loc>/tag/downloads</loc>
 		<lastmod>2022-06-25T07:48:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/drupal</loc>
+		<loc>/tag/drupal</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/erasmus</loc>
+		<loc>/tag/erasmus</loc>
 		<lastmod>2020-03-19T23:21:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/erasmus-experience</loc>
+		<loc>/tag/erasmus-experience</loc>
 		<lastmod>2020-03-19T23:21:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/erasmus-youth-pass</loc>
+		<loc>/tag/erasmus-youth-pass</loc>
 		<lastmod>2020-03-19T23:21:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/esn</loc>
+		<loc>/tag/esn</loc>
 		<lastmod>2022-06-25T07:30:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/esn-alicante-starawards</loc>
+		<loc>/tag/esn-alicante-starawards</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/esn-alicante-website</loc>
+		<loc>/tag/esn-alicante-website</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/esn-international</loc>
+		<loc>/tag/esn-international</loc>
 		<lastmod>2022-06-25T07:30:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/esn-it</loc>
+		<loc>/tag/esn-it</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/esn-itcom</loc>
+		<loc>/tag/esn-itcom</loc>
 		<lastmod>2020-06-22T10:20:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/esn-office</loc>
+		<loc>/tag/esn-office</loc>
 		<lastmod>2022-06-25T07:30:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/esn-webstar</loc>
+		<loc>/tag/esn-webstar</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/exchange-student</loc>
+		<loc>/tag/exchange-student</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/experience</loc>
+		<loc>/tag/experience</loc>
 		<lastmod>2018-09-20T18:16:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/fight</loc>
+		<loc>/tag/fight</loc>
 		<lastmod>2022-06-25T07:44:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/france</loc>
+		<loc>/tag/france</loc>
 		<lastmod>2019-05-10T17:45:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/game</loc>
+		<loc>/tag/game</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/game-from-scratch</loc>
+		<loc>/tag/game-from-scratch</loc>
 		<lastmod>2022-03-23T15:16:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/game-jam</loc>
+		<loc>/tag/game-jam</loc>
 		<lastmod>2022-06-25T07:45:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/game-jam-ua</loc>
+		<loc>/tag/game-jam-ua</loc>
 		<lastmod>2022-06-25T07:46:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/gamejam</loc>
+		<loc>/tag/gamejam</loc>
 		<lastmod>2022-06-25T07:46:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/games-development-event</loc>
+		<loc>/tag/games-development-event</loc>
 		<lastmod>2022-06-25T07:36:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/gaming</loc>
+		<loc>/tag/gaming</loc>
 		<lastmod>2022-06-25T07:34:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/gantt</loc>
+		<loc>/tag/gantt</loc>
 		<lastmod>2022-06-25T07:18:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/git</loc>
+		<loc>/tag/git</loc>
 		<lastmod>2022-06-25T07:18:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/github</loc>
+		<loc>/tag/github</loc>
 		<lastmod>2022-06-25T07:18:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hackathon</loc>
+		<loc>/tag/hackathon</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hackforgood-2017</loc>
+		<loc>/tag/hackforgood-2017</loc>
 		<lastmod>2022-06-25T07:37:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/halo-medals</loc>
+		<loc>/tag/halo-medals</loc>
 		<lastmod>2022-06-25T07:34:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hk-protests-app</loc>
+		<loc>/tag/hk-protests-app</loc>
 		<lastmod>2022-06-25T07:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hk-safe</loc>
+		<loc>/tag/hk-safe</loc>
 		<lastmod>2022-06-25T07:20:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hksafe</loc>
+		<loc>/tag/hksafe</loc>
 		<lastmod>2022-06-25T07:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hksafe-app</loc>
+		<loc>/tag/hksafe-app</loc>
 		<lastmod>2022-06-25T07:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hong-kong</loc>
+		<loc>/tag/hong-kong</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hong-kong-demos</loc>
+		<loc>/tag/hong-kong-demos</loc>
 		<lastmod>2022-06-25T07:20:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hong-kong-mtr</loc>
+		<loc>/tag/hong-kong-mtr</loc>
 		<lastmod>2022-06-25T07:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hong-kong-protest</loc>
+		<loc>/tag/hong-kong-protest</loc>
 		<lastmod>2022-06-25T07:20:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/hong-kong-protests</loc>
+		<loc>/tag/hong-kong-protests</loc>
 		<lastmod>2022-06-25T07:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/howto</loc>
+		<loc>/tag/howto</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/http-client</loc>
+		<loc>/tag/http-client</loc>
 		<lastmod>2020-08-06T16:01:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/http-server</loc>
+		<loc>/tag/http-server</loc>
 		<lastmod>2020-08-06T16:01:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/idi</loc>
+		<loc>/tag/idi</loc>
 		<lastmod>2022-06-25T07:40:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/innovation</loc>
+		<loc>/tag/innovation</loc>
 		<lastmod>2022-06-25T07:41:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/interaction-system</loc>
+		<loc>/tag/interaction-system</loc>
 		<lastmod>2022-06-25T07:25:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/ionic</loc>
+		<loc>/tag/ionic</loc>
 		<lastmod>2022-06-25T07:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/itcom</loc>
+		<loc>/tag/itcom</loc>
 		<lastmod>2022-06-25T07:30:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/japan</loc>
+		<loc>/tag/japan</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/java</loc>
+		<loc>/tag/java</loc>
 		<lastmod>2022-06-25T07:31:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/java-game</loc>
+		<loc>/tag/java-game</loc>
 		<lastmod>2022-06-25T07:24:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/javascript</loc>
+		<loc>/tag/javascript</loc>
 		<lastmod>2022-06-25T07:32:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/korea</loc>
+		<loc>/tag/korea</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/kubernetes</loc>
+		<loc>/tag/kubernetes</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/leap-motion</loc>
+		<loc>/tag/leap-motion</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/learning</loc>
+		<loc>/tag/learning</loc>
 		<lastmod>2024-02-11T18:45:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/learning-source</loc>
+		<loc>/tag/learning-source</loc>
 		<lastmod>2020-08-06T16:01:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/linux-game</loc>
+		<loc>/tag/linux-game</loc>
 		<lastmod>2022-03-23T15:16:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/live</loc>
+		<loc>/tag/live</loc>
 		<lastmod>2018-09-20T18:16:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/macau</loc>
+		<loc>/tag/macau</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mapbox</loc>
+		<loc>/tag/mapbox</loc>
 		<lastmod>2022-06-25T07:22:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mapboxgl</loc>
+		<loc>/tag/mapboxgl</loc>
 		<lastmod>2022-06-25T07:22:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/marketplace</loc>
+		<loc>/tag/marketplace</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/masterclass</loc>
+		<loc>/tag/masterclass</loc>
 		<lastmod>2022-06-25T07:42:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/maxscript</loc>
+		<loc>/tag/maxscript</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/meetup</loc>
+		<loc>/tag/meetup</loc>
 		<lastmod>2022-06-25T07:38:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mixamo</loc>
+		<loc>/tag/mixamo</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mixamo-to-unreal</loc>
+		<loc>/tag/mixamo-to-unreal</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mixamo-com</loc>
+		<loc>/tag/mixamo-com</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mixed-reality</loc>
+		<loc>/tag/mixed-reality</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mobile</loc>
+		<loc>/tag/mobile</loc>
 		<lastmod>2022-06-25T07:31:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mobile-app</loc>
+		<loc>/tag/mobile-app</loc>
 		<lastmod>2022-06-25T07:31:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/mtr</loc>
+		<loc>/tag/mtr</loc>
 		<lastmod>2022-06-25T07:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/murciajam17</loc>
+		<loc>/tag/murciajam17</loc>
 		<lastmod>2022-06-25T07:36:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/nasa</loc>
+		<loc>/tag/nasa</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/nasa-space-apps</loc>
+		<loc>/tag/nasa-space-apps</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/native-android</loc>
+		<loc>/tag/native-android</loc>
 		<lastmod>2022-06-25T07:31:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/new-position</loc>
+		<loc>/tag/new-position</loc>
 		<lastmod>2020-06-22T10:20:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/oculus</loc>
+		<loc>/tag/oculus</loc>
 		<lastmod>2022-06-25T07:41:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/online-interactions</loc>
+		<loc>/tag/online-interactions</loc>
 		<lastmod>2022-06-25T07:25:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/online-multiplayer</loc>
+		<loc>/tag/online-multiplayer</loc>
 		<lastmod>2022-06-25T07:44:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/philipines</loc>
+		<loc>/tag/philipines</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/php</loc>
+		<loc>/tag/php</loc>
 		<lastmod>2022-06-25T07:37:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/project-lead</loc>
+		<loc>/tag/project-lead</loc>
 		<lastmod>2022-06-25T07:24:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/project-management</loc>
+		<loc>/tag/project-management</loc>
 		<lastmod>2022-06-25T07:24:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/promoted-to-vice-chair-for-development</loc>
+		<loc>/tag/promoted-to-vice-chair-for-development</loc>
 		<lastmod>2020-06-22T10:20:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/public-demos</loc>
+		<loc>/tag/public-demos</loc>
 		<lastmod>2022-06-25T07:20:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/react</loc>
+		<loc>/tag/react</loc>
 		<lastmod>2022-06-25T07:22:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/react-native</loc>
+		<loc>/tag/react-native</loc>
 		<lastmod>2022-06-25T07:22:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/reactjs</loc>
+		<loc>/tag/reactjs</loc>
 		<lastmod>2022-06-25T07:22:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/redux</loc>
+		<loc>/tag/redux</loc>
 		<lastmod>2024-02-11T18:45:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/rigging</loc>
+		<loc>/tag/rigging</loc>
 		<lastmod>2022-03-23T15:18:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/satellite-5</loc>
+		<loc>/tag/satellite-5</loc>
 		<lastmod>2022-06-25T07:30:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/scripting</loc>
+		<loc>/tag/scripting</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/sfml</loc>
+		<loc>/tag/sfml</loc>
 		<lastmod>2022-03-23T15:16:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/simple-http-sockets</loc>
+		<loc>/tag/simple-http-sockets</loc>
 		<lastmod>2020-08-06T16:01:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/simple-sockets</loc>
+		<loc>/tag/simple-sockets</loc>
 		<lastmod>2020-08-06T16:01:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/simple-sockets-connection</loc>
+		<loc>/tag/simple-sockets-connection</loc>
 		<lastmod>2020-08-06T16:01:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/social</loc>
+		<loc>/tag/social</loc>
 		<lastmod>2022-06-25T07:37:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/software-development</loc>
+		<loc>/tag/software-development</loc>
 		<lastmod>2022-06-25T07:18:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/space-apps-challenge</loc>
+		<loc>/tag/space-apps-challenge</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/starawards</loc>
+		<loc>/tag/starawards</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/starawards-esn</loc>
+		<loc>/tag/starawards-esn</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/starawards-winner</loc>
+		<loc>/tag/starawards-winner</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/starawards-winner-2019</loc>
+		<loc>/tag/starawards-winner-2019</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/student-internship</loc>
+		<loc>/tag/student-internship</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/studies</loc>
+		<loc>/tag/studies</loc>
 		<lastmod>2018-09-20T18:16:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/studying-abroad</loc>
+		<loc>/tag/studying-abroad</loc>
 		<lastmod>2018-09-20T18:16:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/swarm-secrets</loc>
+		<loc>/tag/swarm-secrets</loc>
 		<lastmod>2022-03-23T14:53:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/swords</loc>
+		<loc>/tag/swords</loc>
 		<lastmod>2022-06-25T07:44:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/teaching</loc>
+		<loc>/tag/teaching</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/thailand</loc>
+		<loc>/tag/thailand</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/toggl</loc>
+		<loc>/tag/toggl</loc>
 		<lastmod>2022-06-25T07:18:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/traveling</loc>
+		<loc>/tag/traveling</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/trello</loc>
+		<loc>/tag/trello</loc>
 		<lastmod>2022-06-25T07:18:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/tutorial</loc>
+		<loc>/tag/tutorial</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/typescript</loc>
+		<loc>/tag/typescript</loc>
 		<lastmod>2024-08-17T20:56:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/university</loc>
+		<loc>/tag/university</loc>
 		<lastmod>2022-06-25T07:42:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/university-subject</loc>
+		<loc>/tag/university-subject</loc>
 		<lastmod>2022-06-25T07:40:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine</loc>
+		<loc>/tag/unreal-engine</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-4-crawl</loc>
+		<loc>/tag/unreal-engine-4-crawl</loc>
 		<lastmod>2019-06-25T18:34:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-4-crawling</loc>
+		<loc>/tag/unreal-engine-4-crawling</loc>
 		<lastmod>2019-06-25T18:34:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-4-online</loc>
+		<loc>/tag/unreal-engine-4-online</loc>
 		<lastmod>2022-06-25T07:39:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-4-prone</loc>
+		<loc>/tag/unreal-engine-4-prone</loc>
 		<lastmod>2019-06-25T18:34:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-4-vehicle</loc>
+		<loc>/tag/unreal-engine-4-vehicle</loc>
 		<lastmod>2022-06-25T07:43:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-4-vehicle-download</loc>
+		<loc>/tag/unreal-engine-4-vehicle-download</loc>
 		<lastmod>2022-06-25T07:43:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-4-virtual-reallity</loc>
+		<loc>/tag/unreal-engine-4-virtual-reallity</loc>
 		<lastmod>2022-06-25T07:41:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-building-system</loc>
+		<loc>/tag/unreal-engine-building-system</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-construction-system</loc>
+		<loc>/tag/unreal-engine-construction-system</loc>
 		<lastmod>2022-06-25T07:49:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-crawling-system</loc>
+		<loc>/tag/unreal-engine-crawling-system</loc>
 		<lastmod>2019-06-25T18:34:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-dark-souls</loc>
+		<loc>/tag/unreal-engine-dark-souls</loc>
 		<lastmod>2022-06-25T07:33:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-fighting-system</loc>
+		<loc>/tag/unreal-engine-fighting-system</loc>
 		<lastmod>2022-06-25T07:33:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-meetup</loc>
+		<loc>/tag/unreal-engine-meetup</loc>
 		<lastmod>2022-06-25T07:38:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-prone</loc>
+		<loc>/tag/unreal-engine-prone</loc>
 		<lastmod>2019-06-25T18:34:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-spline-routes</loc>
+		<loc>/tag/unreal-engine-spline-routes</loc>
 		<lastmod>2019-06-25T18:34:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-sword-and-shield</loc>
+		<loc>/tag/unreal-engine-sword-and-shield</loc>
 		<lastmod>2022-06-25T07:33:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/unreal-engine-vr</loc>
+		<loc>/tag/unreal-engine-vr</loc>
 		<lastmod>2022-06-25T07:40:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/ux-ui</loc>
+		<loc>/tag/ux-ui</loc>
 		<lastmod>2022-06-25T07:30:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/vietnam</loc>
+		<loc>/tag/vietnam</loc>
 		<lastmod>2020-04-11T14:24:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/virtual-reality</loc>
+		<loc>/tag/virtual-reality</loc>
 		<lastmod>2022-08-01T12:43:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/vr</loc>
+		<loc>/tag/vr</loc>
 		<lastmod>2022-06-25T07:41:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/vr-scape-room</loc>
+		<loc>/tag/vr-scape-room</loc>
 		<lastmod>2022-06-25T07:38:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/web-apps</loc>
+		<loc>/tag/web-apps</loc>
 		<lastmod>2022-06-25T07:18:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/webstar</loc>
+		<loc>/tag/webstar</loc>
 		<lastmod>2022-06-25T07:30:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/wikidata</loc>
+		<loc>/tag/wikidata</loc>
 		<lastmod>2022-06-25T07:32:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/wikidata-hackathon-ua</loc>
+		<loc>/tag/wikidata-hackathon-ua</loc>
 		<lastmod>2022-06-25T07:32:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/wikimedia</loc>
+		<loc>/tag/wikimedia</loc>
 		<lastmod>2022-06-25T07:32:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/yolo</loc>
+		<loc>/tag/yolo</loc>
 		<lastmod>2019-05-14T10:08:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/youth</loc>
+		<loc>/tag/youth</loc>
 		<lastmod>2019-05-14T10:08:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/tag/youth-exchange</loc>
+		<loc>/tag/youth-exchange</loc>
 		<lastmod>2020-03-19T23:21:51+00:00</lastmod>
 	</url>
 </urlset>

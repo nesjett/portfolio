@@ -1,70 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/portfolio/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/portfolio/</loc>
+		<loc>/</loc>
 	</url>
 	<url>
-		<loc>/portfolio/checkout/purchase-confirmation</loc>
+		<loc>/checkout/purchase-confirmation</loc>
 		<lastmod>2016-07-01T20:14:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/user</loc>
+		<loc>/user</loc>
 		<lastmod>2017-11-02T00:43:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/login</loc>
+		<loc>/login</loc>
 		<lastmod>2017-11-02T00:43:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/register</loc>
+		<loc>/register</loc>
 		<lastmod>2017-11-02T00:43:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/members</loc>
+		<loc>/members</loc>
 		<lastmod>2017-11-02T00:43:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/logout</loc>
+		<loc>/logout</loc>
 		<lastmod>2017-11-02T00:43:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/account</loc>
+		<loc>/account</loc>
 		<lastmod>2017-11-02T00:43:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/password-reset</loc>
+		<loc>/password-reset</loc>
 		<lastmod>2017-11-02T00:43:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/checkout/downloads-history</loc>
+		<loc>/checkout/downloads-history</loc>
 		<lastmod>2019-04-23T17:01:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/checkout/transaction-failed</loc>
+		<loc>/checkout/transaction-failed</loc>
 		<lastmod>2019-04-23T17:04:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/checkout</loc>
+		<loc>/checkout</loc>
 		<lastmod>2019-04-23T17:08:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/frequently-asked-questions</loc>
+		<loc>/frequently-asked-questions</loc>
 		<lastmod>2019-04-24T13:12:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/shop</loc>
+		<loc>/shop</loc>
 		<lastmod>2022-06-24T16:48:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/cart</loc>
+		<loc>/cart</loc>
 		<lastmod>2022-06-24T16:48:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/checkout-2</loc>
+		<loc>/checkout-2</loc>
 		<lastmod>2022-06-24T16:48:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/portfolio/my-account</loc>
+		<loc>/my-account</loc>
 		<lastmod>2022-06-24T16:48:44+00:00</lastmod>
 	</url>
 </urlset>
