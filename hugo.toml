@@ -1,0 +1,12 @@
+baseURL = "https://nesjett.github.io/portfolio/"
+languageCode = "en-us"
+title = "Nestor's Portfolio"
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+[params]
+  description = "Personal portfolio and link hub"
+  googleAnalytics = ""
+
+[outputs]
+  home = ["HTML"]
