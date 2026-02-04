@@ -1,6 +1,6 @@
 ---
 title: "Nestor's Portfolio"
-profileImage: "images/profile.jpg"
+profileImage: "images/profile.webp"
 name: "Nestor"
 description: "Software Developer & Tech Enthusiast"
 
